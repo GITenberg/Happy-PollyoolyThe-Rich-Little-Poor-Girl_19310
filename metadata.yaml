@@ -22,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1357
     wikipedia: http://en.wikipedia.org/wiki/Edgar_Jepson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19310#Happy-PollyoolyThe-Rich-Little-Poor-Girl
 gutenberg_issued: '2006-09-17'
 gutenberg_type: Text
 identifiers:
